@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app"
+    "start": "node index.js"
   },
   "dependencies": {
     "check-node-version": "^2.1.0",
