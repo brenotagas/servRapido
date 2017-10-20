@@ -1,0 +1,25 @@
+{
+  "name": "servrapido",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "check-node-version": "^2.1.0",
+    "cluster": "^0.7.7",
+    "express": "^4.15.2",
+    "os": "^0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenotagas/servRapido.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brenotagas/servRapido/issues"
+  },
+  "homepage": "https://github.com/brenotagas/servRapido#readme"
+}
